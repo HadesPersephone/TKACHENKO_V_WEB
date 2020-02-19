@@ -1,1 +1,7 @@
-WEB-DESIGN LABS FOR 6-th SEMESTER
+# Лаборатора робота №1
+Ткаченко Валерія, КВ-72
+
+## Створення статичного Web-сайту засобами HTML5, CSS3 та Twitter Bootstrap 4
+
+### Варіант №15
+
